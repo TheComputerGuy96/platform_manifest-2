@@ -12,7 +12,7 @@ Initializing Repository
 
 Repo initialization:
 
-    $ repo init -u https://github.com/namterai2003/platform_manifest-2.git -b n7.1
+    $ repo init -u https://github.com/namdeptrai2003/platform_manifest-2.git -b n7.1
 
 
 sync repo :
