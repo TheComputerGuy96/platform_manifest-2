@@ -12,7 +12,7 @@ Initializing Repository
 
 Repo initialization:
 
-    $ repo init -u https://github.com/AICP/platform_manifest.git -b n7.1
+    $ repo init -u https://github.com/namterai2003/platform_manifest-2.git -b n7.1
 
 
 sync repo :
@@ -33,7 +33,7 @@ After the sync is finished, please read the [instructions from the Android site]
 You can also build (and see how long it took) for specific devices like this:
 
     . build/envsetup.sh
-    time brunch angler
+    time brunch kyleprods
 
 Remember to `make clobber` every now and then!
 
