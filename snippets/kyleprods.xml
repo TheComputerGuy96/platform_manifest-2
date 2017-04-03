@@ -6,6 +6,8 @@
   <project path="vendor/samsung/kyleproxx" name="ishantvivek/android_vendor_samsung_kyleproxx" remote="github" revision="7.0" /> 
   <!-- KYLEPRODS dependencies --> 
   <project path="external/chromium-webview" name="ishantvivek/android_external_chromium-webview" clone-depth="1" remote="github" revision="7.0" /> 
-  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" /> 
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" clone-depth="1" remote="aosp" revision="refs/tags/android-4.4.4_r2.0.1" /> 
-  </manifest>
+  <project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" revision="cm-14.1" />
+  <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="cm-14.1" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" clone-depth="1" remote="aosp" revision="refs/tags/android-4.4.4_r2.0.1" />
+
+</manifest>
